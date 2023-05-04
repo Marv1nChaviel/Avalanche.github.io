@@ -1,2 +1,2 @@
 # Avalanche.github.io
-Pagina Elaborada Específicamente con boostrap Multimedia y diseño Web 2do Corte 
+Pagina Elaborada Específicamente para muestra de productos y redirecciones de shopping
